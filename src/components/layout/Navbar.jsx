@@ -5,7 +5,7 @@ export default function Navbar({ dark, toggle }) {
   const [open, setOpen] = useState(false);
 
   const links = [
-    { name: "Aboutkkk", href: "#about" },
+    { name: "About", href: "#about" },
     { name: "Experience", href: "#experience" },
     { name: "Certifications", href: "#certifications" },
     { name: "Projects", href: "#projects" },
